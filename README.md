@@ -1,8 +1,6 @@
 # Hi, I'm Aina 👋
 
-Software engineer with a background in electronics, based in Barcelona and relocating to **Basel, Switzerland**.
-
-I hold two bachelor's degrees from Universitat Pompeu Fabra (ESUPT Tecnocampus): **Computer Engineering in Management and Information Systems** and **Industrial Electronics and Automation**. I currently work in R&D at B2IT Consulting, where I build a full-stack expense-analytics product end to end.
+Software engineer with a background in electronics. I hold two bachelor's degrees from Universitat Pompeu Fabra (ESUPT Tecnocampus): **Computer Engineering in Management and Information Systems** and **Industrial Electronics and Automation**. I currently work in R&D at B2IT Consulting, where I build a full-stack expense-analytics product end to end.
 
 ## 🛠️ Tech stack
 
